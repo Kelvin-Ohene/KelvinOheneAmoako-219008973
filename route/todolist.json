@@ -1,0 +1,25 @@
+[{
+        "name": "Kelvin Bruce",
+        "act": "Update Windows,Install New Sound Drivers,Replace Sales Department Monitors"
+    },
+    {
+        "name": "Kingsley Amponsah",
+        "act": "Update Inventory,Contact Chemical suppliers"
+    },
+    {
+        "name": "Jackie Bong",
+        "act": "Oversee Transfer of Goods"
+    },
+    {
+        "name": "Kofi Mole",
+        "act": "Go on sales call,Get Return Order From Customer of ID 234"
+    },
+    {
+        "name": "Elvis Black",
+        "act": "Go on sales call,Carry out deliveries"
+    },
+    {
+        "name": "Justice Anan",
+        "act": "Record online sales,Input todo list for tommorrow"
+    }
+]
